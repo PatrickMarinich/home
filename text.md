@@ -1,3 +1,0 @@
-#Patrick Marinich
-
-Hi!
