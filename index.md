@@ -1,6 +1,6 @@
 ## Patrick Marinich
 
-You can use the [editor on GitHub](https://github.com/PatrickMarinich/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Check out my github profile here: [Patrick Marinich](https://github.com/PatrickMarinich) to see some of the projects that I am working on!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
