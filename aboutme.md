@@ -1,5 +1,0 @@
-<body> <h1> About ME </h1>
-
- <p> My Name is Patrick Marinich, and I am a computer engineering student at the University of Maryland, College Park </p>
-  
-</body>
