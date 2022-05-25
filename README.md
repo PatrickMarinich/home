@@ -1,7 +1,7 @@
 # home
-A Personal Website using GitHubs Pages :)
-The name 'home' was chosen so that the url looks nice
-Website: https://patrickmarinich.github.io/home/
+* A Personal Website using GitHubs Pages :)
+* The name 'home' was chosen so that the url looks nice
+* Website: https://patrickmarinich.github.io/home/
 
 # About
 * This website is my first exposure to and main place of practice for HTML, JS, and CSS. 
