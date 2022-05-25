@@ -8,8 +8,7 @@
     <link rel="stylesheet" href="VisitorCounter.css">
 </head>
 <body>
-    <div>Website visit count:</div>
-    <div class="website-counter"></div>
+    <div>Website visit count:</div><div class="website-counter"></div>
 </body>
 
 Below are Links to other pages or documents!
