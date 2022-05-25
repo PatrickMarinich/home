@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Patrick Marinich
 description: Computer Engineering Student at the University of Maryland
+layout: default
