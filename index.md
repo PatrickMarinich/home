@@ -1,16 +1,14 @@
 # Patrick Marinich
 
-<html>
-  <head>
+<head>
     <title>Website Counter</title>
     <script defer src="VisitorCounter.js"></script>
     <link rel="stylesheet" href="VisitorCounter.css">
-  </head>
-  <body>
+</head>
+<body>
     <div>Website visit count:</div>
     <div class="website-counter"></div>
-  </body>
-</html>
+</body>
 
 Below are Links to other pages or documents!
 + [Linked-In](https://www.linkedin.com/in/patrickmarinich/)
