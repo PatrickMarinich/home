@@ -1,4 +1,5 @@
-# Patrick Marinich
+## Patrick Marinich
+
 <h6> This web page was created used HTML, JS, and CSS. This website is my first exposure to these languages</h6>
 
 <head>
