@@ -3,8 +3,8 @@
 <html>
   <head>
     <title>Website Counter</title>
-    <script defer src="index.js"></script>
-    <link rel="stylesheet" href="styles.css">
+    <script defer src="VisitorCounter.js"></script>
+    <link rel="stylesheet" href="VisitorCounter.css">
   </head>
   <body>
     <div>Website visit count:</div>
